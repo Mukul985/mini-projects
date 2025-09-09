@@ -1,2 +1,7 @@
-# mini-projects
-Collection of small practice projects: todo, form validation, calculator
+# Mini Projects
+Small practice projects used for learning and interviews.
+
+Folders:
+- form-validation/  — simple HTML form + JS validation
+- todo/             — basic todo app (click to remove)
+- calculator/       — quick JS calculator
